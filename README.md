@@ -1,5 +1,3 @@
-Here's a sample `README.md` for your subject calculator project. You can customize it further if needed:
-
 ```markdown
 # Subject Total and Average Calculator
 
